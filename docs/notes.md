@@ -35,3 +35,4 @@ Notes and usage details for safeclaw.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
